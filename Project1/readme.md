@@ -1,4 +1,4 @@
-Rental prediction project
+Rental prediction project:
 
 Neural Network by Tensorflow
 
