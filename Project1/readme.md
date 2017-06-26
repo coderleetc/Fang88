@@ -1,6 +1,10 @@
 Rental prediction project:
 
-Neural Network by Tensorflow
+Neural Network by Tensorflow & Python
+
+Python file: NNdemo.py
+
+Datasets file: datasets
 
 hidden layer = 10
 
