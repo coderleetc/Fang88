@@ -1,3 +1,5 @@
+Rental prediction project
+
 Neural Network by Tensorflow
 
 hidden layer = 10
