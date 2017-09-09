@@ -1,3 +1,7 @@
+"""
+这是一段简单的神经网络代码，结构是10层网络。想分享这段代码是为了表现我的代码结构，思路和逻辑是相对清晰的，希望您认可。
+"""
+
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
